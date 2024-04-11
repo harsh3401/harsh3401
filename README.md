@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  a Google Meet clone using the MERN stack<br>👯 I’m looking to collaborate on Full stack projects<br>🤝 I’m looking for help with Devops Tools<br>🌱 I’m currently learning SpringBoot and Angular <br>💬 Ask me about React, Angular.js<br>⚡ Fun fact I started my journey with mobile app development
+🔭 I’m currently working on  a IOS Stock trading application using the Express backend  and Swift frontend<br>👯 I’m looking to collaborate on Full stack projects<br>🤝 I’m looking for help with Devops Tools<br>🌱 I’m currently learning SpringBoot and Angular <br>💬 Ask me about React, Angular.js<br>⚡ Fun fact I started my journey with mobile app development
 
 
 ## 🌐 Socials:
